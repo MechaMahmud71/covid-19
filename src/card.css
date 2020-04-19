@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+
+.card-container {
+	display: flex;
+	justify-content: center;
+}
+
+.subContainer {
+	background: white;
+	margin: 10px 20px;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+	transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+.subContainer p {
+	text-align: left;
+}
+
+.infected-container {
+	border-bottom: 10px solid rgba(0, 0, 255, 0.5);
+}
+
+.recovered-container {
+	border-bottom: 10px solid rgba(0, 255, 0, 0.5);
+}
+
+.deaths-container {
+	border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
+
+.date,
+.header {
+	color: #999999;
+	padding: 0px 25px 10px;
+}
+
+.value {
+	font-size: 25px;
+	padding: 0px 25px 10px;
+
+	font-weight: 600;
+}
+.infected-value {
+	color: rgba(0, 0, 255, 0.5);
+}
+.recovered-value {
+	color: rgba(0, 255, 0, 0.5);
+}
+.deaths-value {
+	color: rgba(255, 0, 0, 0.5);
+}
+
+.header {
+	padding: 20px 25px 15px;
+}
+
+.description {
+	padding: 0px 25px 20px;
+}
