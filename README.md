@@ -10,16 +10,16 @@ In the select section one can choose the country to see its data and bar graph w
 
 In this app used APIs r given below
 
-1.For global data-https://covid19.mathdro.id/api
+1. For global data-https://covid19.mathdro.id/api
 
-2.For secific country data-https://covid19.mathdro.id/api/countries/NAME_OF_COUNTRY
+2. For secific country data-https://covid19.mathdro.id/api/countries/NAME_OF_COUNTRY
 
-3.For day to day data-https://covid19.mathdro.id/api/daily
+3. For day to day data-https://covid19.mathdro.id/api/daily
 
 Packages are used in this project-
 
-1.axios(to fetch data)-https://www.npmjs.com/package/axios
+1. axios(to fetch data)-https://www.npmjs.com/package/axios
 
-2.Apex chart(react-apextchart)(to show the datas in the chart)-https://apexcharts.com/docs/react-charts/#
+2. Apex chart(react-apextchart)(to show the datas in the chart)-https://apexcharts.com/docs/react-charts/#
 
 Happy coding!!
