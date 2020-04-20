@@ -1,7 +1,8 @@
 This is a React web app.
+
 A class based app!!! No react hooks has been used.
 
-This app will show the infected,recovered and deaths number of using nice area and bar graph.
+This app will show the infected,recovered and deaths number by using nice area and bar graph.
 
 On fisrt load the app will show current infected,recovered and death numbers thought the world and the area graph will show the number of infected everyday up to date.
 
