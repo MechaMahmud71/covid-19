@@ -1,4 +1,4 @@
-This is a React web app.
+This is a React web app Named COVID-19.
 
 A class based app!!! No react hooks has been used.
 
@@ -14,12 +14,12 @@ In this app used APIs r given below
 
 2.For secific country data-https://covid19.mathdro.id/api/countries/NAME_OF_COUNTRY
 
-3.for day to day data-https://covid19.mathdro.id/api/daily
+3.For day to day data-https://covid19.mathdro.id/api/daily
 
 Packages are used in this project-
 
-1.axios(to fetch data)
+1.axios(to fetch data)-https://www.npmjs.com/package/axios
 
-2.Apex chart(react-apextchart)(to show the datas in the chart)
+2.Apex chart(react-apextchart)(to show the datas in the chart)-https://apexcharts.com/docs/react-charts/#
 
 Happy coding!!
