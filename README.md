@@ -20,6 +20,6 @@ Packages are used in this project-
 
 1. axios(to fetch data)-https://www.npmjs.com/package/axios
 
-2. Apex chart(react-apextchart)(to show the datas in the chart)-https://apexcharts.com/docs/react-charts/#
+2. Apex chart(react-apexchart)(to show the datas in the chart)-https://apexcharts.com/docs/react-charts/#
 
 Happy coding!!
