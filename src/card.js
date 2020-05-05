@@ -59,14 +59,7 @@ class Card extends Component {
         const month = months[date.getMonth()];
 
         console.log(month);
-
-
-
-
-
-
-
-
+        
         return (
             <div className="card-container">
                 <div className="subContainer infected-container">
